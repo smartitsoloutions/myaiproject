@@ -1,8 +1,8 @@
 # Simple login system
 
 # Hardcoded username and password
-correct_username = "admin"
-correct_password = "1234"
+correct_username = "administrator"
+correct_password = "ASDasd123"
 
 # User input
 username = input("Enter username: ")
