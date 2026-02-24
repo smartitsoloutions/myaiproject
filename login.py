@@ -2,7 +2,7 @@
 
 # Hardcoded username and password
 correct_username = "administrator"
-correct_password = "ASDasd123"
+correct_password = "Versosmart@123"
 
 # User input
 username = input("Enter username: ")
